@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/motorola/deen" name="jro1979oliver/device_motorola_deen" remote="github" revision="lineage-18.1" />
+ <project path="vendor/motorola" name="jro1979oliver/aicp_vendor_motorola" remote="github" revision="r11.1" />
+ <project path="kernel/motorola/deen" name="jro1979oliver/kernel_motorola_deen" remote="github" revision="lineage-18.1" />
+ 
+ <!-- Dependencies -->
+ <project path="external/bson" name="LineageOS/external_bson" remote="github" revision="lineage-18.1" />
+ <project path="hardware/motorola" name="LineageOS/hardware_motorola" remote="github" revision="lineage-18.1" />
+ <project path="system/qcom" name="LineageOS/system_qcom/" remote="github" revision="lineage-18.1" />
+
+</manifest>
